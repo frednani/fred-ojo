@@ -1,0 +1,8 @@
+#header {
+    position: fixed;
+    top: 0;
+  }
+  .nav-link{
+    display: flex;
+  justify-content:space-between;
+  }
